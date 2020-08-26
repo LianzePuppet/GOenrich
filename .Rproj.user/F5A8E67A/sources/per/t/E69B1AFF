@@ -1,0 +1,32 @@
+{
+    "id": "E69B1AFF",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1596108003345.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "expression": "TOlist",
+        "caption": "TOlist",
+        "totalObservations": 560,
+        "displayedObservations": 560,
+        "variables": 1,
+        "cacheKey": "8551E502",
+        "object": "TOlist",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=TOlist&cache_key=8551E502&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1596107900,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596108003345,
+    "read_only": false,
+    "read_only_alternatives": []
+}
